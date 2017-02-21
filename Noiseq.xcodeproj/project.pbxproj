@@ -300,6 +300,7 @@
 				92D748CB1E59699B00D51102 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
